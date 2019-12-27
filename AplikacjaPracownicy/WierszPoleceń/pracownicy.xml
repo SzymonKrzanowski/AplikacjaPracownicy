@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Pracownicy>
+    <Imię>jan</Imię>
+    <Nazwisko>nowak</Nazwisko>
+    <Data_x0020_Urodzenia>12 maj 1999</Data_x0020_Urodzenia>
+    <Adres_x0020_Zamieszkania>gorna 12 rze</Adres_x0020_Zamieszkania>
+    <Dane_x0020_Szczegółowe>jan@onet.pl	jan.pl</Dane_x0020_Szczegółowe>
+    <Zawód>Informatyk</Zawód>
+  </Pracownicy>
+</NewDataSet>

@@ -1,0 +1,28 @@
+H:\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\WierszPoleceń.exe.config
+H:\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\WierszPoleceń.exe
+H:\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\WierszPoleceń.pdb
+H:\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\BibliotekaKlas.dll
+H:\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\BibliotekaKlas.pdb
+H:\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\obj\Debug\WierszPolecen.csprojResolveAssemblyReference.cache
+H:\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\obj\Debug\WierszPoleceń.exe
+H:\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\obj\Debug\WierszPoleceń.pdb
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\WierszPoleceń.exe.config
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\WierszPoleceń.exe
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\WierszPoleceń.pdb
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\BibliotekaKlas.dll
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\BibliotekaKlas.pdb
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\obj\Debug\WierszPolecen.csprojAssemblyReference.cache
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\obj\Debug\WierszPolecen.csproj.CoreCompileInputs.cache
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\obj\Debug\WierszPolecen.csproj.CopyComplete
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\obj\Debug\WierszPoleceń.exe
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\obj\Debug\WierszPoleceń.pdb
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\WierszPoleceń.exe.config
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\WierszPoleceń.exe
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\WierszPoleceń.pdb
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\BibliotekaKlas.dll
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\bin\Debug\BibliotekaKlas.pdb
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\obj\Debug\WierszPolecen.csprojAssemblyReference.cache
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\obj\Debug\WierszPolecen.csproj.CoreCompileInputs.cache
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\obj\Debug\WierszPolecen.csproj.CopyComplete
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\obj\Debug\WierszPoleceń.exe
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\WierszPoleceń\obj\Debug\WierszPoleceń.pdb

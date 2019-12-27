@@ -1,0 +1,17 @@
+H:\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\bin\Debug\BibliotekaKlas.dll
+H:\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\bin\Debug\BibliotekaKlas.pdb
+H:\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\obj\Debug\BibliotekaKlas.csprojResolveAssemblyReference.cache
+H:\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\obj\Debug\BibliotekaKlas.dll
+H:\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\obj\Debug\BibliotekaKlas.pdb
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\obj\Debug\BibliotekaKlas.csprojAssemblyReference.cache
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\obj\Debug\BibliotekaKlas.csproj.CoreCompileInputs.cache
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\obj\Debug\BibliotekaKlas.dll
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\obj\Debug\BibliotekaKlas.pdb
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\bin\Debug\BibliotekaKlas.dll
+C:\Users\CP24\Downloads\Szymon Krzanowski\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\bin\Debug\BibliotekaKlas.pdb
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\bin\Debug\BibliotekaKlas.dll
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\bin\Debug\BibliotekaKlas.pdb
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\obj\Debug\BibliotekaKlas.csprojAssemblyReference.cache
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\obj\Debug\BibliotekaKlas.csproj.CoreCompileInputs.cache
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\obj\Debug\BibliotekaKlas.dll
+D:\Metody i techniki programowania\Szymon Krzanowski\AplikacjaPracownicy\BibliotekaKlas\obj\Debug\BibliotekaKlas.pdb

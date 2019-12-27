@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Pracownicy>
+    <Imię>Jan</Imię>
+    <Nazwisko>Nowak</Nazwisko>
+    <Data_x0020_Urodzenia>1 czerwiec 1992</Data_x0020_Urodzenia>
+    <Adres_x0020_Zamieszkania>Lwowska 13 Rzeszów</Adres_x0020_Zamieszkania>
+    <Dane_x0020_Szczegółowe>jan-nowak@onet.pl	nowak.pl</Dane_x0020_Szczegółowe>
+    <Zawód>Informatyk</Zawód>
+  </Pracownicy>
+  <Pracownicy>
+    <Imię>Pawel</Imię>
+    <Nazwisko>Kowal</Nazwisko>
+    <Data_x0020_Urodzenia>10 grudzień 1950</Data_x0020_Urodzenia>
+    <Adres_x0020_Zamieszkania>Krakowska 24 Rzeszów</Adres_x0020_Zamieszkania>
+    <Dane_x0020_Szczegółowe>ortopeda	lek med</Dane_x0020_Szczegółowe>
+    <Zawód>Lekarz</Zawód>
+  </Pracownicy>
+</NewDataSet>
